@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T06:19:27.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qloVHam4TMq9iOoiECb3" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T06:22:27.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Xu2roBE88mbH1gmgKeTy" version="15.8.8" type="github">
   <diagram id="866KbBrWoyg4EyYoZ31c" name="Page-1">
-    <mxGraphModel dx="2719" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="SXjIM4kO_tZVLq4J6g7p-3" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4_jxxtpeDGcCTqT1oUJ2-13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="370" y="430" as="sourcePoint" />
-            <mxPoint x="490" y="60" as="targetPoint" />
+            <mxPoint x="410" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="470" />
               <mxPoint x="520" y="60" />
@@ -234,6 +234,9 @@
             <mxPoint x="260" y="110" as="sourcePoint" />
             <mxPoint x="420" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SXjIM4kO_tZVLq4J6g7p-21" value="MVP8-UML-用例图" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
