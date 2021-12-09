@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T02:25:09.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="U5doGSrHHoGGwuKj_yqF" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:25:28.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ALZopjBVvi2mrcEUz2qG" version="15.9.1" type="github">
   <diagram id="0KxdZuHM-TuT7a8DDn13" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="lfebkZOPfofk5Hfdgye4-10" value="品牌" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="440" y="990" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lfebkZOPfofk5Hfdgye4-11" value="服务项目" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lfebkZOPfofk5Hfdgye4-11" value="服务方案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="860" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfebkZOPfofk5Hfdgye4-12" value="售后协议" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
